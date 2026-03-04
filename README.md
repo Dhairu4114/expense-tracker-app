@@ -1,2 +1,2 @@
 # expense-tracker-app
-A mobile expense tracker app built during CodTech Internship (Task 1) — supports expense categorization, summary charts, and data persistence using Room/SQLite.
+A mobile expense tracker app - supports expense categorization, summary charts, and data persistence using Room/SQLite.
